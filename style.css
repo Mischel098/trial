@@ -1,0 +1,26 @@
+body {
+    background-color: #f8fcff;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    margin-top: 40px;
+    margin-right: 98px;
+    margin-left: 142px;
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    width: 301px;
+}
+
+.banking {
+    font-size: 80px;
+    color: #222223;
+    font-family: 'Bai Jamjuree';
+    
+}
