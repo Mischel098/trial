@@ -6,7 +6,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 50px;
     margin-top: 40px;
     margin-right: 98px;
     margin-left: 142px;
@@ -18,9 +17,114 @@ body {
     width: 301px;
 }
 
+.containerhero {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 95px;
+    margin-right: 98px;
+    margin-left: 142px;
+}
+
 .banking {
-    font-size: 80px;
+    font-size: 70px;
     color: #222223;
     font-family: 'Bai Jamjuree';
+    width: 432px;
+    margin: 0px;
+    /* top: 185px;
+    height: 20px;
+    left: 140px; */
     
+}
+
+.meet {
+    font-size: 18px;
+    width: 280px;
+    height: 60px;
+    margin-top: 48px;
+}
+
+.img {
+    margin: -24px;
+    width: 90px;
+}
+.img-container {
+    display: flex;
+    justify-content: start;
+    align-items: flex-end;
+}
+
+.get {
+    margin-left: 18px;
+}
+
+.container-kanan {
+    position: relative;
+    width: 614px;
+    height: 352px;
+    background: #80D1FF
+}
+
+.visa {
+    position: absolute;
+    top: -107px;
+    left: -52px;
+    width: 556px;
+    height: 499px
+}
+
+.kuning {
+    background-color: #FFD968;
+    width: 220px;
+    height: 352px;
+    right: 0px;
+    position: absolute;
+    
+
+}
+
+.bulet {
+    position: absolute;
+    bottom: 60px;
+    right: 260px;
+}
+
+.icon1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 42px;
+}
+
+.icon2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerp1 {
+    margin-left: 139px;
+    margin-top: 128px;
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+.p2 {
+    font-family: 'bai jamjuree';
+    font-size: 35px;
+    margin: 0px;
+}
+
+.bold {
+    font-family: 'inter';
+    font-weight: 700;
+    font-size: 20px;
 }
