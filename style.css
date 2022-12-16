@@ -281,6 +281,194 @@ body {
 }
 
 .containerbiru {
+    position: relative;
     background-color: #80D1FF;
-    width: 1300px ;
+    height: 507px;
+    width: 568px;
+    left: 174.000732421875px;
+    top: 56px;
+    border-radius: 0px;
+
+}
+
+.containerputih {
+    position: absolute;
+    height: 412px;
+    width: 610px;
+    left: -84px;
+    top: 50px;
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+
+.gr24 {
+    width: inherit;
+}
+
+.cards1 {
+    width: inherit;
+    height: auto;
+    margin-left: 25px;
+    margin-top: -40px;
+}
+
+.containerxxx {
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+.containerxxxx {
+    display: flex;
+    justify-content: space-between;
+    width: 1236px;
+}
+
+.containerkanan {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.handof {
+    font-family: 'Bai Jamjuree';
+    font-weight: 600;
+    font-size: 51px;
+    width: 458px;
+    height: 111px;
+    left: 855px;
+    top: 69px;
+}
+
+.create {
+    color: #727272;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    width: 402px;
+    height: 50px;
+}
+
+.stra {
+    margin-left: 0;
+    width: 92px;
+    height: 27px;
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.sugges {
+    margin-left: 0px;
+    width: 286px;
+    height: 52px;
+    margin-top: -12px;
+    color: #727272;
+}
+
+.worksc {
+    margin-top: 0;
+    margin-left: 0;
+    width: 141px;
+    height: 27px;
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.workis {
+    margin-left: 0;
+    width: 286px;
+    height: 52px;
+    margin-top: -12px;
+    color: #727272;
+}
+
+.gr9 {
+    margin-left: 0;
+    width: 161px;
+    height: auto;
+}
+
+.gr6 {
+    width: 161px;
+    height: auto;
+}
+
+.rw {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containert1 {
+    height: 621px;
+}
+
+.containert {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 552;
+    background-color: #41B3F4;
+    padding-left: 100px;
+}
+
+.containert2 {
+    width: 714px;
+    height: 140px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 122px;
+}
+
+.containert3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 81;
+    width: 120;
+}
+ .subs {
+    margin-top: 75px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #414449;
+ }
+
+ .garis {
+    margin-left: 81px;
+ }
+
+.subs2 {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-left: 81px;
+    margin-top: -7px;
+}
+
+.button {
+    padding: 21px 44px;
+    background-color: #E15C19;
+    border: none;
+    color: white;
+    margin-left: 85px;
+    margin-top: -25px;
 }
