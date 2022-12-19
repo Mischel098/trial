@@ -449,7 +449,8 @@ body {
  }
 
  .garis {
-    margin-left: 81px;
+    margin-left: 240px;
+    margin-top: -76px;
  }
 
 .subs2 {
@@ -462,6 +463,7 @@ body {
     align-items: flex-end;
     margin-left: 81px;
     margin-top: -7px;
+    white-space: nowrap;
 }
 
 .button {
@@ -471,4 +473,77 @@ body {
     color: white;
     margin-left: 85px;
     margin-top: -25px;
+}
+
+.containerb {
+    width: 1440px;
+    height: 175px;
+}
+
+.about5 {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 240px;
+    width: 335px;
+    height: 50px;
+
+}
+
+.bes {
+    margin-right: 150px;
+    width: 80px;
+    height: auto;
+}
+
+.containerb3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1081px;
+    height: 20px;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+
+.siup {
+    display: flex;
+    justify-content: space-between;
+    width: 130px;
+    margin-right: 70px;
+}
+
+.bot {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #404041;
+}
+
+.containerbawah {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1081px;
+    height: 14px;
+    margin-top: 70px;
+    margin-left: 160px;
+}
+
+.line {
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 75px;
+}
+
+.containerc {
+    width: 1080px;
+}
+
+.copy {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #7B827D;
 }
